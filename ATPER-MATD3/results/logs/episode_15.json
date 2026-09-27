@@ -1,0 +1,13 @@
+{
+    "episode": 15,
+    "reward": 9.963502039080092,
+    "avg_reward": 9.963730249529887,
+    "eval_reward": 9.964014484517435,
+    "completion_rate": 1.0,
+    "eval_completion_rate": 1.0,
+    "resource_utilization": 0.8008728320249187,
+    "critic_loss": 16.63332176208496,
+    "actor_loss": -8.927526473999023,
+    "episode_time": 0.5618188381195068,
+    "total_time": 8.538686752319336
+}

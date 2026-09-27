@@ -1,0 +1,7 @@
+Training completed at: 2026-09-27 10:41:57
+Total episodes: 30
+Total training time: 0.00 hours
+Final average reward (last 100 episodes): 9.96
+Final average completion rate (last 100 episodes): 1.00
+Final average resource utilization (last 100 episodes): 0.77
+Final evaluation reward: 9.96
